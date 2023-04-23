@@ -1,0 +1,14 @@
+pow(x, y)	abrunebs x akvanili y xarishxshi
+sqrt(x)         abrunebs x is kvadratul pesvs
+sin(x)		_______________
+cos(x)          _______________
+tan(x)		_______________
+asin(x)		_______________
+acos(x)		_______________
+atan(x)		_______________
+log(x)		logaritmi x idan
+log10(x)	atobiti logaritmi x idan
+ceil(x)		x is damrgvaleba momdevno mtel ricxvamde
+floor(x)	x is damrgvaleba momdevno nakleb mtel ricxvamde 
+		Mushaobs marto floatebze da double tipebze
+fmod(x, y)	x is y ze gakopili nashti (wiladi ricxvi)
